@@ -1,0 +1,51 @@
+questionTitles,questionUrls,questionViews,questionUpVotes,questionAnswers
+Binary search vs linear search,https://stackoverflow.com/questions/70947429/binary-search-vs-linear-search,32 ,1,2
+How can I extract values from an array of objects,https://stackoverflow.com/questions/70947529/how-can-i-extract-values-from-an-array-of-objects,20 ,0,5
+PM2 I/O Unexpected error : Missing mandatory field refresh_token to make a POST request on /api/oauth/token,https://stackoverflow.com/questions/70602807/pm2-i-o-unexpected-error-missing-mandatory-field-refresh-token-to-make-a-post,65 ,2,1
+SassError: Undefined variable in VueJS,https://stackoverflow.com/questions/70944872/sasserror-undefined-variable-in-vuejs,6 ,0,1
+How to convert ASCII encoded UTF8 string back to UTF8?,https://stackoverflow.com/questions/70922290/how-to-convert-ascii-encoded-utf8-string-back-to-utf8,23 ,0,0
+"Get name(s) from JSON format column, that not in 2 other columns with names",https://stackoverflow.com/questions/70945883/get-names-from-json-format-column-that-not-in-2-other-columns-with-names,21 ,0,0
+How to use activecell row and column in VBA function with filldown?,https://stackoverflow.com/questions/70934076/how-to-use-activecell-row-and-column-in-vba-function-with-filldown,23 ,0,1
+Conflict in Adafruit NeoPixel and ACS712 data?,https://stackoverflow.com/questions/70947767/conflict-in-adafruit-neopixel-and-acs712-data,2 ,0,0
+curl format for CURLOPT_POSTFIELDS,https://stackoverflow.com/questions/70947728/curl-format-for-curlopt-postfields,4 ,0,1
+How to explode block with pyautocad,https://stackoverflow.com/questions/69856731/how-to-explode-block-with-pyautocad,69 ,1,2
+Is the value of <br> the same between different OSs?,https://stackoverflow.com/questions/70947650/is-the-value-of-br-the-same-between-different-oss,10 ,0,0
+Check the value of Path-object when mocking unlink(),https://stackoverflow.com/questions/70947764/check-the-value-of-path-object-when-mocking-unlink,3 ,0,0
+C++ not executing on M1 Mac VS Code,https://stackoverflow.com/questions/70947763/c-not-executing-on-m1-mac-vs-code,7 ,0,0
+Browser displaying css style even after it is deleted,https://stackoverflow.com/questions/70945539/browser-displaying-css-style-even-after-it-is-deleted,17 ,1,2
+Why That Code Returns 'None' | Python 3.9 Tuples in List,https://stackoverflow.com/questions/70947717/why-that-code-returns-none-python-3-9-tuples-in-list,29 ,0,2
+Multiple splash scaled images not working from jar,https://stackoverflow.com/questions/70938138/multiple-splash-scaled-images-not-working-from-jar,35 ,0,1
+"Is there a way to rewrite extensions on nginx, and run PHP in them?",https://stackoverflow.com/questions/70947759/is-there-a-way-to-rewrite-extensions-on-nginx-and-run-php-in-them,4 ,0,0
+What is the Tensorflow 2.4.1 analogous of TPU_strategy.experimental_run_v2 from version 2.1? How to replace that?,https://stackoverflow.com/questions/70944546/what-is-the-tensorflow-2-4-1-analogous-of-tpu-strategy-experimental-run-v2-from,13 ,0,1
+How to use cwise operations over specific indexes of a vector? (Eigen),https://stackoverflow.com/questions/52916243/how-to-use-cwise-operations-over-specific-indexes-of-a-vector-eigen,405 ,0,2
+Send to Bottom of Div Element on User Scroll,https://stackoverflow.com/questions/70902170/send-to-bottom-of-div-element-on-user-scroll,28 ,1,1
+Where do I put my custom middleware for my Node/Express backend?,https://stackoverflow.com/questions/70947758/where-do-i-put-my-custom-middleware-for-my-node-express-backend,5 ,0,0
+C# array access from first element only,https://stackoverflow.com/questions/70944981/c-sharp-array-access-from-first-element-only,55 ,1,2
+Jupyter Notebook List Python Dataframes,https://stackoverflow.com/questions/70947599/jupyter-notebook-list-python-dataframes,9 ,0,1
+Moving TypeScript class outside of custom hook,https://stackoverflow.com/questions/70947706/moving-typescript-class-outside-of-custom-hook,7 ,0,0
+gnuplot: how to plot sum of three data sets,https://stackoverflow.com/questions/16861334/gnuplot-how-to-plot-sum-of-three-data-sets,12000 ,4,2
+"React Error - No routes matched location ""/""",https://stackoverflow.com/questions/70947483/react-error-no-routes-matched-location,9 ,1,2
+Spring Boot JPA: One To One Shared Key Issue In Kotlin,https://stackoverflow.com/questions/70947753/spring-boot-jpa-one-to-one-shared-key-issue-in-kotlin,3 ,0,0
+How visible and invisible button from settings activity,https://stackoverflow.com/questions/70947709/how-visible-and-invisible-button-from-settings-activity,5 ,0,0
+I am trying to make the background image a auto slider,https://stackoverflow.com/questions/70947688/i-am-trying-to-make-the-background-image-a-auto-slider,6 ,0,1
+how to set facebook audience network interstitial ad onPressed during navigation?,https://stackoverflow.com/questions/70947433/how-to-set-facebook-audience-network-interstitial-ad-onpressed-during-navigation,8 ,-1,1
+for loop works very slowly on ARM,https://stackoverflow.com/questions/70947750/for-loop-works-very-slowly-on-arm,5 ,0,0
+How to get faster results from sql?,https://stackoverflow.com/questions/70947551/how-to-get-faster-results-from-sql,36 ,-2,1
+How do I solve the error: Only one element tensors can be converted to python scalars,https://stackoverflow.com/questions/70947749/how-do-i-solve-the-error-only-one-element-tensors-can-be-converted-to-python-sc,3 ,0,0
+Why RowVersion datatype is missing inside SSMS,https://stackoverflow.com/questions/68930915/why-rowversion-datatype-is-missing-inside-ssms,112 ,1,1
+Analog to .* for tensor/ vector multiplications in matlab,https://stackoverflow.com/questions/70946175/analog-to-for-tensor-vector-multiplications-in-matlab,15 ,0,0
+ShinyApp: keep dynamically generated input values from being lost,https://stackoverflow.com/questions/70947135/shinyapp-keep-dynamically-generated-input-values-from-being-lost,12 ,1,0
+What causes signal 'SIGILL'?,https://stackoverflow.com/questions/7901867/what-causes-signal-sigill,137000 ,100,4
+How to calculate the 21! (21 factorial) in swift?,https://stackoverflow.com/questions/33666197/how-to-calculate-the-21-21-factorial-in-swift,14000 ,12,8
+POWERQUERY : Deal with a column containing Text Values and Table,https://stackoverflow.com/questions/70947746/powerquery-deal-with-a-column-containing-text-values-and-table,2 ,0,0
+"In the new Snowflake Worksheet UI, how do you see the query history?",https://stackoverflow.com/questions/70947576/in-the-new-snowflake-worksheet-ui-how-do-you-see-the-query-history,4 ,0,1
+Redundant calculations in python list comprehension?,https://stackoverflow.com/questions/70947518/redundant-calculations-in-python-list-comprehension,40 ,2,5
+Problem setting domain alias with Google Classroom,https://stackoverflow.com/questions/70789310/problem-setting-domain-alias-with-google-classroom,20 ,0,0
+LaTex not working with figure environment (Float(s) lost error),https://stackoverflow.com/questions/70947743/latex-not-working-with-figure-environment-floats-lost-error,2 ,0,0
+"Construct two objects using new operator,Print object, Call setter on both methods and change marks, Print new marks, and explain encapsulation above",https://stackoverflow.com/questions/70947742/construct-two-objects-using-new-operator-print-object-call-setter-on-both-metho,4 ,0,0
+JavaFX: Change the scene By pressing a specific key(b) on the the keyboard,https://stackoverflow.com/questions/70947202/javafx-change-the-scene-by-pressing-a-specific-keyb-on-the-the-keyboard,4 ,-1,0
+I have designed an O(logn) algorithm to raise an integer x to the power of n. How to implement this as a recursion in python?,https://stackoverflow.com/questions/70944948/i-have-designed-an-ologn-algorithm-to-raise-an-integer-x-to-the-power-of-n-ho,68 ,2,3
+How can I parse a CSV file and display only specific column?,https://stackoverflow.com/questions/70943153/how-can-i-parse-a-csv-file-and-display-only-specific-column,26 ,-1,3
+Type of adressing mode,https://stackoverflow.com/questions/70945793/type-of-adressing-mode,23 ,0,1
+Animation for Placeholder Not Running,https://stackoverflow.com/questions/70947426/animation-for-placeholder-not-running,6 ,0,0
+"How to pivot a DataFrame creating new columns, considering the max item repeated",https://stackoverflow.com/questions/70947398/how-to-pivot-a-dataframe-creating-new-columns-considering-the-max-item-repeated,17 ,0,1
